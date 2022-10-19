@@ -1,10 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-int main() {
-
-printf("Hello World");
-
-return 0;
+int main(int argc, char const *argv[])
+{
+    printf("Hello world!");
+    return 0;
 }
